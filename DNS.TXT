@@ -1,1 +1,12 @@
 google-site-verification=LYDn15caaackOzQHRZgHGKcMx65Wxo1V8X5OIYVFq1o
+
+id 46687
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+https://rossercity.github.io. IN CNAME
+;ANSWER
+;AUTHORITY
+github.io. 893 IN SOA ns-1622.awsdns-10.co.uk. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+;ADDITIONAL
